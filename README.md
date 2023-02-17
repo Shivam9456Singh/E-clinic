@@ -5,8 +5,6 @@
 
 
 -register page for new Patient
-![register](https://user-images.githubusercontent.com/113454708/219779695-d5e05a72-9eb1-45f6-9bcd-d723a0446eee.png)
-
 
 ![Register page for new patient](https://user-images.githubusercontent.com/113454708/219684569-229d4bb1-a96b-4cad-b360-43a7d6b0d80b.png)
 
