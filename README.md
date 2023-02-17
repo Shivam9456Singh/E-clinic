@@ -27,3 +27,7 @@ admin home page
 - Patient Home Page
 - ![new patient home page](https://user-images.githubusercontent.com/113454708/219685144-e5fa9832-1ba0-4be4-9c06-556224f14862.png)
 
+Patients can Register Login directly to their account 
+
+Admin can only add remove or edit details of a doctor . 
+doctor can view their sessions , fix appointments , cancel sessions and check the details of patients.
