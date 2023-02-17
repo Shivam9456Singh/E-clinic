@@ -24,4 +24,6 @@ admin home page
 ![doctor view patient](https://user-images.githubusercontent.com/113454708/219684915-d13775a8-c3c1-4260-b42b-5a9e5270be96.png)
 ![docotr appointmen](https://user-images.githubusercontent.com/113454708/219684929-3542442b-8288-4ee9-b0e8-0bf54a69cdea.png)
 
+- Patient Home Page
+- ![new patient home page](https://user-images.githubusercontent.com/113454708/219685144-e5fa9832-1ba0-4be4-9c06-556224f14862.png)
 
