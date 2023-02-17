@@ -6,7 +6,7 @@
 
 -register page for new Patient
 
-![Register page for new patient](https://user-images.githubusercontent.com/113454708/219684569-229d4bb1-a96b-4cad-b360-43a7d6b0d80b.png)
+![register](https://user-images.githubusercontent.com/113454708/219781588-9a02540f-ac3e-4275-ba7d-49af2111d265.png)
 
 - login page
 
