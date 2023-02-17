@@ -1,7 +1,7 @@
 @import url('font-inter.css');
 :root {
-  --primarycolor: #0A76D8;
-  --primarycolorhover: #006dd3;
+  --primarycolor: #ec2323;
+  --primarycolorhover: #a8b6c3;
   --btnice:#D8EBFA;
   --btnnicetext:#1b62b3;
 }
@@ -27,7 +27,7 @@ body{
   
   /* Track */
   ::-webkit-scrollbar-track {
-    background: #f1f1f1; 
+    background: #5c5151; 
   }
    
   /* Handle */
@@ -47,7 +47,7 @@ body{
 
 .input-text{
     border-radius: 4px;
-    border: 0.5px solid rgb(226, 226, 226);
+    border: 0.5px solid rgb(255, 255, 255);
     padding: 10px;
     width: 92%;
     transition: 0.2s;
@@ -81,7 +81,7 @@ body{
 }
 
 .input-text:focus{
-    border: 1px solid rgb(10,118,216);
+    border: 1px solid rgb(123, 125, 128);
     transition: 0.2s;
 }
 
@@ -541,7 +541,7 @@ input[type=search]:focus {
 
 .doctor-header{
   background-image: url(../img/b8.jpg);
-  color: rgba(0, 0, 0, 0.87);
+  color: rgba(30, 29, 29, 0.87);
   background-size: 100%;
   background-repeat: no-repeat;
   padding: 20px;
@@ -561,7 +561,7 @@ input[type=search]:focus {
   padding-left: 30px;
   box-sizing: border-box;
   line-height: 1.5;
-  box-shadow: 0 3px 5px 0 rgba(95, 95, 97, 0.068);
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.068);
 }
 
 

@@ -1,6 +1,6 @@
 
 body{
-    margin: 7%;
+    margin:7%;
     background-image: url(../img/background.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -12,8 +12,8 @@ body{
 
 .container{
     width: 45%;
-    background-color: rgb(255, 255, 255);
-    border: 1px solid rgb(101, 101, 101);
+    background-color: rgb(144, 206, 230);
+    border: 2px solid rgb(210, 197, 197);
     border-radius: 10px;
     margin: 0;
     padding: 0;
